@@ -6,9 +6,8 @@ This hello world console application is simple. It is written in C# and the .NET
 
 The purpose of this application is to showcase my ability to follow directions and establish a portfolio.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/x116oQSAvAc)
 
 # Development Environment
 
